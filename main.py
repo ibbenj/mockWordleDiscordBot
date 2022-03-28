@@ -110,4 +110,4 @@ async def on_message(message):
 # 10. ability to see instructions for the bot
 
 
-client.run("OTU2Njk5NTk3MTY4ODY5NDI2.Yj0B7g.V7IPq0rTV02rPtIgecQQqbigei8")
+client.run("enter token here")
